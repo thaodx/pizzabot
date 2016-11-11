@@ -1,5 +1,5 @@
 {
-  "name": "messenger-get-started",
+  "name": "pizzabot",
   "version": "1.0.0",
   "description": "Get started example for Messenger Platform",
   "main": "app.js",
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://thaodx@bitbucket.org/thaodx/messenger.git"
+    "url": "git+https://github.com/thaodx/pizzabot.git"
   },
-  "author": "Facebook",
+  "author": "thaodx",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
@@ -24,5 +24,5 @@
   "engines": {
     "node": "~4.1.2"
   },
-  "homepage": "https://bitbucket.org/thaodx/messenger#readme"
+  "homepage": "https://github.com/thaodx/pizzabot.git"
 }
